@@ -1,6 +1,6 @@
 cask "inplug" do
-  version "1.0.100"
-  sha256 "4df71205cc8d793b0be1a8ddc394b272f8d1dd084676b47e776c88d5517f9f0a"
+  version "1.0.101"
+  sha256 "2fa0fd1f481b990fc1dad9f49ceb05369d6cd3240ea153a778d01d59bb18ba3d"
 
   url "https://github.com/inplugapp/InPlug-releases/releases/download/v#{version}/InPlug.dmg"
   name "InPlug"
